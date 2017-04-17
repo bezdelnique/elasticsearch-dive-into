@@ -1,5 +1,5 @@
 # Семпл данных
-curl -L https://raw.githubusercontent.com/yiisoft/yii2/master/contrib/completion/bash/yii -o /etc/bash_completion.d/yii
+curl -L https://raw.githubusercontent.com/bezdelnique/elasticsearch-dive-into/master/elastic-search.json -o /tmp/elastic-search.json
 
 
 # Конфигурация и маппинг
