@@ -151,8 +151,16 @@ curl -XGET 'localhost:9200/dict_suggest/_search?pretty' -H 'Content-Type: applic
 }'
 
 
+# Удаление данных по запросу: только словари с id = 20
+curl -XDELETE 'http://localhost:9200/dict_suggest/_query' -d '{
+    "query" : {
+        "term" : { "dict_id" : "20" }
+    }
+}'
 
-# Удаление данных по запросу
+
+
+# Удаление данных по запросу: все данные
 curl -XDELETE 'http://localhost:9200/dict_suggest/_query' -d '{
     "query" : { 
         "match_all" : {}
