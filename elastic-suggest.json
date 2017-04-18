@@ -1,0 +1,800 @@
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"1","word":"аборт медицинский","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"2","word":"аборт самопроизвольный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"3","word":"абсцесс аппендикулярный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"4","word":"абсцесс головного мозга","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"5","word":"абсцесс заглоточный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"6","word":"абсцесс лёгкого","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"7","word":"абсцесс малого таза","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"8","word":"абсцесс межкишечный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"9","word":"абсцесс мягких тканей","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"10","word":"абсцесс паратонзиллярный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"11","word":"абсцесс печени амёбный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"12","word":"абсцесс печени бактериальный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"13","word":"абсцесс поддиафрагмальный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"14","word":"абсцесс спинальныи эпидуралыныи","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"15","word":"агаммаглобулинемии","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"16","word":"агирия","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"17","word":"агранулоцитоз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"18","word":"агранулоцитоз наследственный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"19","word":"аденоиды","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"20","word":"аденома бронхиальная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"21","word":"аденома гипофиза","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"22","word":"аденоматоз полиэндокринный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"23","word":"адренолейкодистрофия","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"24","word":"аисгенезия гонад","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"25","word":"акродерматит пустулёзный алаопо","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"26","word":"акромегалия и гигантизм","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"27","word":"акроостеолиз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"28","word":"акроцефалосиндактилии","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"29","word":"актиномикоз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"30","word":"алейкия алиментарнотоксическая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"31","word":"алкалоз метаболический","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"32","word":"алкалоз респираторный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"33","word":"алкоголизм","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"34","word":"аллергия пищевая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"35","word":"алопеция","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"36","word":"альбинизм","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"37","word":"альвеококкоз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"38","word":"амблиопия","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"39","word":"амебиаз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"40","word":"аменорея","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"41","word":"амилоидоз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"42","word":"аминоацидурия","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"43","word":"амиотрофии","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"44","word":"амниоцентез","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"45","word":"ампутация травматическая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"46","word":"анафилаксия","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"47","word":"ангидроз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"48","word":"ангина","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"49","word":"ангина вторичная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"50","word":"ангина герпетическая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"51","word":"ангина первичная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"52","word":"ангина язвенноплёнчатая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"53","word":"ангины при заболеваниях системы крови","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"54","word":"ангины при инфекционных заболеваниях","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"55","word":"ангиокератома","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"56","word":"аневризма","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"57","word":"аневризма аорты","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"58","word":"аневризма аорты расслаивающая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"59","word":"аневризма артериовенозная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"60","word":"аневризма брюшной аорты","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"61","word":"аневризма внутричерепная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"62","word":"анемии","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"63","word":"анемии апластические","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"64","word":"анемии вследствие нарушений синтеза гемоглобина и обмена железа","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"65","word":"анемии гемолитические аутоиммунные","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"66","word":"анемии гипопластические","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"67","word":"анемии при хронических заболеваниях","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"68","word":"анемии сидеробластные","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"69","word":"анемия вследствие дефицита эритропоэтина","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"70","word":"анемия гемолитическая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"71","word":"анемия гемолитическая микроангиопатическая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"72","word":"анемия железодефицитная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"73","word":"анемия острая постгеморрагическая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"74","word":"анемия пернициозная и другие в12 дефицитные анемии","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"75","word":"анемия серповидноклеточная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"76","word":"анемия фолиеводефицитная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"77","word":"анкилостомоз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"78","word":"аномалии жаберных щелей","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"79","word":"аномалии развития сердца малые","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"80","word":"аномалии рефракции","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"81","word":"анорексия неврогенная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"82","word":"аппендицит острый","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"83","word":"аритмии сердца","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"84","word":"аритмия синусовая","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"85","word":"артериит гигантоклеточный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"86","word":"артрит инфекционный бактериальный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"87","word":"артрит инфекционный гранулематозный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"88","word":"артрит псориатический","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"89","word":"артрит реактивный","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"90","word":"артрит ревматоианый","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"91","word":"артрит ювенильный хронический","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"92","word":"артропатия неврогенная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"93","word":"асбестоз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"94","word":"аскаридоз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"95","word":"аспартилгликозаминурия","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"96","word":"аспергиллёз","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"97","word":"астма бронхиальная","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"98","word":"астроцитома","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"99","word":"асцит","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"100","word":"атаки транзиторные ишемические","dict_id":19}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"1","word":"I Никейский Вселенский Собор","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"2","word":"Ii Константинопольский Вселенский Собор","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"3","word":"Iii Эфесский Вселенский Собор","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"4","word":"Pl-Кедан (Perfect Liberty, Братство Абсолютной Свободы)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"5","word":"Vi (Iii Константинопольский) Вселенский Собор","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"6","word":"Аббасиды","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"7","word":"Авеста (Зенд-Авеста)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"8","word":"Аврора","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"9","word":"Аглабиды","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"10","word":"Агнец","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"11","word":"Агни","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"12","word":"Агни-Йога (Живая Этика, Йога Космического Огня)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"13","word":"Агностицизм","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"14","word":"Ад (Шеол)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"15","word":"Адат","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"16","word":"Адвайта-Веданта (Веданта Недвойственности)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"17","word":"Адвентизм","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"18","word":"Адвентисты Седьмого Дня (Асд, Субботники)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"19","word":"Аджи","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"20","word":"Ади Грантх","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"21","word":"Адибудда","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"22","word":"Адопционизм Армянский","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"23","word":"Адхварью","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"24","word":"Азраил","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"25","word":"Азракиты","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"26","word":"Айтарея","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"27","word":"Акафист","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"28","word":"Акбар","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"29","word":"Аксиос","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"30","word":"Аладура","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"31","word":"Албанская Православная Церковь","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"32","word":"Александрийская Православная Церковь","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"33","word":"Алекто","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"34","word":"Аллах","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"35","word":"Аллилуарий","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"36","word":"Аллилуйя","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"37","word":"Алтарь","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"38","word":"Альбигойцы","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"39","word":"Альморавиды","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"40","word":"Альмохады","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"41","word":"Амальрикане","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"42","word":"Аматэрасу-Омиками","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"43","word":"Амвон","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"44","word":"Американская Православная Церковь","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"45","word":"Амертат","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"46","word":"Амеша Спента","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"47","word":"Аминь","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"48","word":"Амиши(Консервативная Меннонитская Церковь)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"49","word":"Амон","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"50","word":"Анабаптизм","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"51","word":"Анагамин","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"52","word":"Аналав","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"53","word":"Аналой","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"54","word":"Ананай-Ке (Учение Трех И Пяти)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"55","word":"Ангел","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"56","word":"Англиканская Церковь","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"57","word":"Ангро-Майнью","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"58","word":"Анимизм","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"59","word":"Аноховцы","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"60","word":"Антидор","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"61","word":"Антикосмизм","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"62","word":"Антиминс","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"63","word":"Антиохийская Православная Церковь","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"64","word":"Антипапа","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"65","word":"Антипасха","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"66","word":"Антипово Согласие (Безденежники)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"67","word":"Антисоматизм","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"68","word":"Антихрист","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"69","word":"Антропософия","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"70","word":"Анубис","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"71","word":"Анумана","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"72","word":"Аокмаэга","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"73","word":"Апокалипсис (Откровение Св.Иоанна Богослова)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"74","word":"Апокалиптика","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"75","word":"Апокриф","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"76","word":"Апостолы","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"77","word":"Апостольская Церковь Великобритании","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"78","word":"Апостольские Братья","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"79","word":"Апостольские Пятидесятники","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"80","word":"Араньяк","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"81","word":"Арианство","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"82","word":"Аристовцы","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"83","word":"Армагеддон","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"84","word":"Армия Спасения","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"85","word":"Арнольдизм","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"86","word":"Артос","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"87","word":"Артха","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"88","word":"Архат","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"89","word":"Архидиакон","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"90","word":"Архиепископ","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"91","word":"Архиерей","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"92","word":"Архимандрит","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"93","word":"Арья Самадж","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"94","word":"Асклепий","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"95","word":"Асмодей","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"96","word":"Ассамблеи Бога (Собрание Божье)","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"97","word":"Ассамблея Религий Мира","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"98","word":"Ассоциация Новых Экуменических Исследований","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"99","word":"Астика","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"100","word":"Астрология","dict_id":20}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"1","word":"абандон","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"2","word":"абдикация","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"3","word":"аболиционизм","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"4","word":"аболиция","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"5","word":"абонемент","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"6","word":"абонент","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"7","word":"абонентская задолженность","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"8","word":"абонентский почтовый шкаф","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"9","word":"аборигены","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"10","word":"аборт","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"11","word":"аброгация","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"12","word":"абсентеизм","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"13","word":"абсолютная монархия","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"14","word":"абсолютная ответственность","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"15","word":"абсолютное вето","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"16","word":"абсолютные права","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"17","word":"абстинентный синдром","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"18","word":"абстрактные сделки","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"19","word":"абстрактный конституционный надзор","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"20","word":"авалирование","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"21","word":"авалист","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"22","word":"аваль","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"23","word":"авальный кредит","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"24","word":"аванс","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"25","word":"аванс фрахта","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"26","word":"авансовый отчет","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"27","word":"аварийная подписка","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"28","word":"аварийно-спасательная служба","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"29","word":"аварийно-спасательное формирование","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"30","word":"аварийно-спасательные работы","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"31","word":"аварийно-спасательные средства","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"32","word":"аварийный бонд","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"33","word":"аварийный взнос","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"34","word":"аварийный комиссар","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"35","word":"аварийный сертификат","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"36","word":"авария","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"37","word":"авизо","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"38","word":"авизование документарного аккредитива","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"39","word":"ависта","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"40","word":"автогужевая повинность","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"41","word":"автократия","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"42","word":"автономия","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"43","word":"автономия воли","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"44","word":"автономия высшего учебного заведения","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"45","word":"автономная некоммерческая организация","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"46","word":"автономная область","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"47","word":"автономная республика","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"48","word":"автономный округ","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"49","word":"автономный тариф","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"50","word":"автор","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"51","word":"автор произведения архитектуры","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"52","word":"автореферат","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"53","word":"авторизация","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"54","word":"авторизованный перевод","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"55","word":"авторитаризм","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"56","word":"авторский договор","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"57","word":"авторский договор заказа","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"58","word":"авторский лист","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"59","word":"авторский надзор","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"60","word":"авторское право","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"61","word":"авуары","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"62","word":"авункулат","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"63","word":"агент","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"64","word":"агент генеральный","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"65","word":"агент консигнационный","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"66","word":"агент страховой","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"67","word":"агент судовой","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"68","word":"агент торговый","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"69","word":"агент-делькредере","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"70","word":"агентирование судов","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"71","word":"агентские операции","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"72","word":"агентские функции банков","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"73","word":"агентский договор","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"74","word":"агентское вознаграждение","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"75","word":"агентство","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"76","word":"агитация предвыборная","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"77","word":"аграрное право","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"78","word":"агреман","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"79","word":"агрессивное намерение","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"80","word":"агрессия","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"81","word":"агрессия косвенная","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"82","word":"агрессия прямая","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"83","word":"агрессор","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"84","word":"ад валорем","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"85","word":"ад референдум","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"86","word":"адаптация","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"87","word":"адат","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"88","word":"адато","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"89","word":"адвалорные ставки таможенной пошлины","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"90","word":"адвокат","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"91","word":"адвокат народа","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"92","word":"адвокатская коллегия","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"93","word":"адвокатская тайна","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"94","word":"адвокатура","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"95","word":"адендум","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"96","word":"административная опека","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"97","word":"административная ответственность","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"98","word":"административная ссылка","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"99","word":"административная юрисдикция","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"100","word":"административная юстиция","dict_id":3}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"2","word":"а капелла","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"3","word":"аав","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"4","word":"аалто","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"5","word":"аалтонен","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"6","word":"ааре","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"7","word":"аарне","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"8","word":"аарон","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"9","word":"аароновщина","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"10","word":"аах","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"11","word":"ааюн","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"12","word":"аба","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"13","word":"абадан","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"14","word":"абаза","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"15","word":"абазинский язык","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"16","word":"абазины","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"17","word":"абай","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"18","word":"абай кунанбаев","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"19","word":"абайская степь","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"20","word":"абак","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"21","word":"абака","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"22","word":"абакан","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"23","word":"абаканская степь","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"24","word":"абаканский хребет","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"25","word":"абаканское месторождение","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"26","word":"абакелия","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"27","word":"абакумов","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"28","word":"абалакин","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"29","word":"абалаковы","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"30","word":"абалкин","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"31","word":"абарбанель","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"32","word":"абарис","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"33","word":"абасов","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"34","word":"абастумани","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"35","word":"абастуманская астрофизическая обсерватория ан","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"36","word":"абасыянык","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"37","word":"абача","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"38","word":"абаша","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"39","word":"абашевская игрушка","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"40","word":"абашидзе","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"41","word":"абба","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"42","word":"аббадо","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"43","word":"аббай","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"44","word":"аббас","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"45","word":"аббасиды","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"46","word":"аббасмирза","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"47","word":"аббасов","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"48","word":"аббат","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"49","word":"аббе","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"50","word":"аббот","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"51","word":"аббревиатура","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"52","word":"абвер","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"53","word":"абгарян","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"54","word":"абд алькадир","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"55","word":"абд алькрим","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"56","word":"абдаллах","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"57","word":"абдаллах ибн хусейн","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"58","word":"абдаляр","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"59","word":"абдаррахман","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"60","word":"абдер","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"61","word":"абдергальден","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"62","word":"абдеры","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"63","word":"абдишо","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"64","word":"абдо","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"65","word":"абдоминальный","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"66","word":"абдрашитов","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"67","word":"абдул муис","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"68","word":"абдулатипов","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"69","word":"абдулджаббар","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"70","word":"абдулино","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"71","word":"абдулла сабир","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"72","word":"абдулладжанов абдумалик","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"73","word":"абдуллаев","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"74","word":"абдуллах бин абдулкадир мунши","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"75","word":"абдуллахан","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"76","word":"абдуллин","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"77","word":"абдулов","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"78","word":"абдулхамид","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"79","word":"абдурахманов","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"80","word":"абдурахманова","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"81","word":"абдуррахман моманд","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"82","word":"абегян","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"83","word":"абедин","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"84","word":"абелам","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"85","word":"абелев","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"86","word":"абели","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"87","word":"абелль","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"88","word":"абель","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"89","word":"абель ф о","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"90","word":"абелян","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"91","word":"абеляр","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"92","word":"абендрот","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"93","word":"абеокута","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"94","word":"абердин","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"95","word":"аберрация","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"96","word":"аберт","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"97","word":"абжалилов","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"98","word":"абзац","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"99","word":"абзетцер","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"100","word":"абзу","dict_id":10}
+{ "index" : { "_index" : "dict_suggest", "_type" : "words_suggest" } }
+{"id":"101","word":"абиджан","dict_id":10}

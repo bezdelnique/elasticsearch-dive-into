@@ -1,9 +1,9 @@
 # Семпл данных
-curl -L https://raw.githubusercontent.com/bezdelnique/elasticsearch-dive-into/master/elastic-search.json -o /tmp/elastic-search.json
+curl -L https://raw.githubusercontent.com/bezdelnique/elasticsearch-dive-into/master/elastic-suggest.json -o /tmp/elastic-search.json
 
 
 # Конфигурация и маппинг
-curl -XPOST "localhost:9200/dict_search" -d'
+curl -XPOST "localhost:9200/dict_suggest" -d'
 {
   "settings" : {
     "index" : {
@@ -16,10 +16,20 @@ curl -XPOST "localhost:9200/dict_search" -d'
           "ru_stemmer" : {
             "type" : "stemmer",
             "language" : "russian"
+          },
+          "autocomplete_filter" : {
+            "type" : "edge_ngram",
+            "min_gram" : "3",
+            "max_gram" : "20"
           }
         },
         "analyzer" : {
-          "default" : {
+          "autocomplete" : {
+            "filter" : [ "lowercase", "autocomplete_filter" ],
+            "type" : "custom",
+            "tokenizer" : "standard"
+          },
+          "my_fulltext" : {
             "filter" : [ "lowercase", "ru_stop", "ru_stemmer" ],
             "char_filter" : "html_strip",
             "type" : "custom",
@@ -30,11 +40,8 @@ curl -XPOST "localhost:9200/dict_search" -d'
     }
   },
   "mappings" : {
-    "words_search" : {
+    "words_suggest" : {
       "properties" : {
-        "description" : {
-          "type" : "string"
-        },
         "dict_id" : {
           "type" : "integer"
         },
@@ -42,27 +49,42 @@ curl -XPOST "localhost:9200/dict_search" -d'
           "type" : "integer"
         },
         "word" : {
-          "type" : "string"
+          "type" : "string",
+          "fields" : {
+            "fulltext" : {
+              "type" : "string",
+              "analyzer" : "my_fulltext"
+            },
+            "raw" : {
+              "type" : "string",
+              "boost" : 2.0,
+              "index" : "not_analyzed",
+              "norms" : {
+                "enabled" : true
+              }
+            }
+          },
+          "analyzer" : "autocomplete"
         }
       }
     }
-  }  
+  }
 }'
 
 
 # Проверка что всё получилось
-curl -XGET "localhost:9200/dict_search/_settings?pretty"
-curl -XGET "localhost:9200/dict_search/_mapping?pretty"
+curl -XGET "localhost:9200/dict_suggest/_settings?pretty"
+curl -XGET "localhost:9200/dict_suggest/_mapping?pretty"
 
 
 # Массовая вставка. На каждую запись ES возвращает информацию о том что получилось, а что нет
-# _id (речь про внутренний _id ES) задан в данных. Если _id не задавать, он будет сгенерирован автоматически
-curl -s -H "Content-Type: application/x-ndjson" -XPOST localhost:9200/dict_search/_bulk?pretty --data-binary "@/tmp/elastic-search.json"
+# _id генерируется автоматически
+curl -s -H "Content-Type: application/x-ndjson" -XPOST localhost:9200/dict_suggest/_bulk?pretty --data-binary "@/tmp/elastic-suggest.json"
 
 
 
 # Проверка что данные вставились (поищем)
-curl -XGET 'localhost:9200/dict_search/_search?pretty' -H 'Content-Type: application/json' -d'
+curl -XGET 'localhost:9200/dict_suggest/_search?pretty' -H 'Content-Type: application/json' -d'
 {
   "query": {
     "match_all": {}
@@ -73,7 +95,7 @@ curl -XGET 'localhost:9200/dict_search/_search?pretty' -H 'Content-Type: applica
 # Проверка что данные вставились (посчитаем)
 #
 # 400 записей
-curl -XGET 'localhost:9200/dict_search/_count?pretty' -H 'Content-Type: application/json' -d'
+curl -XGET 'localhost:9200/dict_suggest/_count?pretty' -H 'Content-Type: application/json' -d'
 {
   "query" : {
     "match_all": {}        
@@ -88,7 +110,7 @@ curl -XGET 'localhost:9200/dict_search/_count?pretty' -H 'Content-Type: applicat
 #
 # В 4 dict_id (key в ответе), по 100 записей в каждом (doc_count в в ответе)
  
-curl -XGET 'localhost:9200/dict_search/_search?pretty' -H 'Content-Type: application/json' -d'
+curl -XGET 'localhost:9200/dict_suggest/_search?pretty' -H 'Content-Type: application/json' -d'
 {
   "size": 0,
   "aggs": {
@@ -104,34 +126,34 @@ curl -XGET 'localhost:9200/dict_search/_search?pretty' -H 'Content-Type: applica
 
 
 
-# То зачем всё затевалось - полнотекстовый поиск
-# size задал 10, чтобы не засорять вывод
-#
-# 1. Нашлось 2 записи в разных словарях
-# 2. Результат подсветки в секции highlight
-curl -XGET 'localhost:9200/dict_search/_search?pretty' -H 'Content-Type: application/json' -d'
+# То зачем всё затевалось - предиктивный поиск
+# size задал 15, чтобы не засорять вывод
+curl -XGET 'localhost:9200/dict_suggest/_search?pretty' -H 'Content-Type: application/json' -d'
 {
-  "size" : 100,
-  "query" : {
-    "multi_match" : {
-      "query" : "абордажом",
-      "type" : "best_fields",
-      "fields" : ["word^1", "description"]
+    "size" : 15,
+    "query" : {
+        "multi_match" : {
+            "query" : "абар",
+            "type" : "best_fields",
+            "fields" : ["word.raw^2", "word.fulltext", "word"]
+        }
+    },
+    "sort" : {
+        "_score" : "desc",
+        "word.raw" : "asc"
+    },
+    "highlight" : {
+        "fields" : {
+            "word" : {}
+        }
     }
-  },
-  "highlight" : {
-    "fields" : {
-      "word" : {},
-      "description" : {}
-    }
-  }
+    
 }'
 
 
 
-
 # Удаление данных по запросу
-curl -XDELETE 'http://localhost:9200/dict_search/_query' -d '{
+curl -XDELETE 'http://localhost:9200/dict_suggest/_query' -d '{
     "query" : { 
         "match_all" : {}
     }
@@ -139,7 +161,7 @@ curl -XDELETE 'http://localhost:9200/dict_search/_query' -d '{
 
 
 # Прибрать за собой (удаляет индекс со всем содержимым)
-curl -XDELETE 'localhost:9200/dict_search?pretty'
+curl -XDELETE 'localhost:9200/dict_suggest?pretty'
 
 
 
